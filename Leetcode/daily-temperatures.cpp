@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/daily-temperatures
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

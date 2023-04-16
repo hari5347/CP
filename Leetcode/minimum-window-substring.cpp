@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/minimum-window-substring
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

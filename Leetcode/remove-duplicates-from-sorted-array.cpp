@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

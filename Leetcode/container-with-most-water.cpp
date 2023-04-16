@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/container-with-most-water
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

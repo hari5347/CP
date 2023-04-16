@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/longest-repeating-character-replacement
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:

@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
 #include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 private:
